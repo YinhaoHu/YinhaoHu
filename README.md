@@ -6,4 +6,4 @@ Hi, I am Hoo, currently an undergraduate student in computer science and technol
 
 ---
 
-[About me](www.centhoo.top)
+[About me](http://www.centhoo.top)
