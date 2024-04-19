@@ -1,8 +1,8 @@
 Hi, I am Hoo, currently an undergraduate student in computer science and technology since 2022.
 
-- I'm interested in Distributed System and Database Management System and my main development involves them.
+- Interested in distributed systems and database management systems.
 
-- The major programming language I use are Go and C++ 17.
+- The major programming languages I use are Go and C++ 17.
 
 ---
 
