@@ -1,11 +1,1 @@
-Hi, I am Hoo, currently an undergraduate student in computer science and technology since 2022.
-
-- Interested in distributed systems and database management systems.
-
-- The major programming languages I use are Go and C++ 17.
-
-- You can contact me on QQ: 976693458.
-
----
-
-[About me](http://www.henryhoo.cn)
+Hi there! I'm Hoo, an undergrad student in Computer Science and Technology since 2022. I'm currently working as a Cloud Storage Engineer at Xiaohongshu. I'm really into distributed data systems. Feel free to reach out to me on WeChat: Hoo32993. If you want to know more about me, check out About Me.
